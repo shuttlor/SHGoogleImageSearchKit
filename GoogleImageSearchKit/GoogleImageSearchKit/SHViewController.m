@@ -11,7 +11,7 @@
 
 @interface SHViewController(priavte_function)
 -(void)imageArrayFetched:(NSArray*)imageArray;
--(void)imageArrayFetchedFialure:(NSError*)err;
+-(void)imageArrayFetchedFailure:(NSError*)err;
 @end
 
 @implementation SHViewController
@@ -36,7 +36,7 @@
     
     SearchFailBlock failBlock = ^(NSError* err) {
         if ([self respondsToSelector:@selector(imageArrayFetchedFialure:)]) {
-            [self performSelector:@selector(imageArrayFetchedFialure:) withObject:err];
+            [self performSelector:@selector(imageArrayFetchedFailure:) withObject:err];
         }
     };
     
