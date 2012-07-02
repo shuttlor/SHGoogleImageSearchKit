@@ -1,0 +1,797 @@
+TGoogleImageSearchKit
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist GoogleImageSearchKit/GoogleImageSearchKit-Info.plist
+cCpResource /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist
+cProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o /Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Users/trailcn/Library/MobileDevice/Provisioning Profiles/69F5D616-934F-421B-9FE0-9D6E4EFAB9A7.mobileprovision
+c000000004FBC8B7D0000000000001DC3
+t1337756541
+s7619
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch
+c000000004FE99B660000000000000157
+t1340709734
+s343
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m
+c000000004FE99B6600000000000009B1
+t1340709734
+s2481
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m
+c000000004FED7B3C00000000000006EA
+t1340963644
+s1770
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/en.lproj/InfoPlist.strings
+c000000004FE99B66000000000000002D
+t1340709734
+s45
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/en.lproj/SHViewController.xib
+c000000004FE99B66000000000000145A
+t1340709734
+s5210
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m
+c000000004FE99B660000000000000166
+t1340709734
+s358
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m
+c000000004FEEA3000000000000000519
+t1341039360
+s1305
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app.dSYM
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/GoogleImageSearchKit
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/PkgInfo
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/en.lproj/SHViewController.nib
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit.xcent
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesCDNRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainer.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainerRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainerXMLParserDelegate.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesObject.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesObjectRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3Bucket.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3BucketObject.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3BucketRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3ObjectRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3Request.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3ServiceRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/GoogleImageSearchKit.LinkFileList
+c000000004FEEA36A0000000000001197
+t1341039466
+s4503
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/Reachability.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m
+c000000004F57B0530000000000003F4A
+t1331146835
+s16202
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m
+c000000004F57B0530000000000001A63
+t1331146835
+s6755
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m
+c000000004F57B0530000000000001916
+t1331146835
+s6422
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m
+c000000004F57B0530000000000004561
+t1331146835
+s17761
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m
+c000000004F57B0530000000000002C02
+t1331146835
+s11266
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m
+c000000004FEEA0DA000000000002D13B
+t1341038810
+s184635
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m
+c000000004F57B0530000000000000C32
+t1331146835
+s3122
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m
+c000000004F57B0530000000000002C8D
+t1331146835
+s11405
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m
+c000000004FEEA2150000000000007B06
+t1341039125
+s31494
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesCDNRequest.m
+c000000004F57B05300000000000015D8
+t1331146835
+s5592
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainer.m
+c000000004F57B0530000000000000238
+t1331146835
+s568
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerRequest.m
+c000000004F57B0530000000000001183
+t1331146835
+s4483
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m
+c000000004F57B0530000000000000A4D
+t1331146835
+s2637
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObject.m
+c000000004F57B05300000000000001E5
+t1331146835
+s485
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObjectRequest.m
+c000000004F57B0530000000000002955
+t1331146835
+s10581
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesRequest.m
+c000000004F57B0530000000000000ECE
+t1331146835
+s3790
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/External/GHUnit/GHUnitIOS.framework/GHUnitIOS
+c000000004D436AE6000000000021365C
+t1296263910
+s2176604
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/External/Reachability/Reachability.m
+c000000004F57B0530000000000005E0C
+t1331146835
+s24076
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Bucket.m
+c000000004F57B0530000000000000376
+t1331146835
+s886
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketObject.m
+c000000004F57B0530000000000000787
+t1331146835
+s1927
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketRequest.m
+c000000004F57B0530000000000001817
+t1331146835
+s6167
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ObjectRequest.m
+c000000004F57B0530000000000001533
+t1331146835
+s5427
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Request.m
+c000000004F57B05300000000000028FC
+t1331146835
+s10492
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ServiceRequest.m
+c000000004F57B0530000000000000A4B
+t1331146835
+s2635
+
+N/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m
+c000000004FED204C0000000000032498
+t1340940364
+s205976
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004E5C595800000000000001A7
+t1314675032
+s423
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004E72F307000000000032AC00
+t1316156167
+s3320832
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libicucore.dylib
+c000000004E72F12E00000000003A84F0
+t1316155694
+s3835120
+
+N/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/lib/libxml2.dylib
+c000000004E72F24100000000001F2D30
+t1316155969
+s2043184
+
+N/var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth
+t2
+s0
+
+NGoogleImageSearchKit/GoogleImageSearchKit-Info.plist
+c000000004FED13D7000000000000044B
+t1340937175
+s1099
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesCDNRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainer.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObject.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObjectRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/External/Reachability/Reachability.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Bucket.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketObject.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ObjectRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Request.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ServiceRequest.m
+r0
+
+CBuild AST from /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1ccd21eada9eb541^be6a51eada9eb541^---0#1#0#--18"Check dependencies36"56D3DA7F-C4DC-4C48-A16C-3D4E47DE3E79-
+
+CCodeSign /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.204960
+e362732267.443237
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m069d34ebda9eb541^0e8371ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m0000000000000000^3094"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o opensource/asi/ASIAuthenticationDialog.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIAuthenticationDialog.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIAuthenticationDialog.o36"B4EF30E4-8E3B-4D11-B1E0-FECB4CD4FFA1-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesCDNRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesCDNRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainer.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainer.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainerRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesContainerXMLParserDelegate.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesObject.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObject.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesObjectRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesObjectRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASICloudFilesRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/CloudFiles/ASICloudFilesRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.209905
+e362732267.309431
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.mcee235ebda9eb541^48364febda9eb541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m0000000000000000^3064"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o opensource/asi/ASIDataCompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataCompressor.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataCompressor.o36"0E7238B6-BD21-47E6-A804-F5A27F0E885F-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.210077
+e362732267.320436
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.mfaef35ebda9eb541^281052ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m0000000000000000^3074"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o opensource/asi/ASIDataDecompressor.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDataDecompressor.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDataDecompressor.o36"DECE7EDB-E2A2-4A3C-88C6-C06DA8CBFFDB-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.310764
+e362732267.479553
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.md1b14febda9eb541^06d47bebda9eb541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m0000000000000000^3059"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o opensource/asi/ASIDownloadCache.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIDownloadCache.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIDownloadCache.o36"56A9B212-7FAD-4304-901B-11ED313CFD2E-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.321685
+e362732267.449464
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m69a752ebda9eb541^261b73ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m0000000000000000^3069"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o opensource/asi/ASIFormDataRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIFormDataRequest.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIFormDataRequest.o36"B8F36C4F-2F2D-48C3-80D4-8FE9823E0A07-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.444437
+e362732268.384550
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m70ec71ebda9eb541^197462ecda9eb541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m0000000000000000^3049"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o opensource/asi/ASIHTTPRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIHTTPRequest.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIHTTPRequest.o36"F7D62BF4-77B0-4DEA-AB74-539D0599D811-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.450708
+e362732267.536753
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.mecc273ebda9eb541^867389ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m0000000000000000^3049"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o opensource/asi/ASIInputStream.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIInputStream.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIInputStream.o36"79179CB9-F8E6-4508-B783-6886A6BC4D6B-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.480772
+e362732267.684009
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m793a7bebda9eb541^15e4afebda9eb541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m0000000000000000^3054"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o opensource/asi/ASINetworkQueue.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASINetworkQueue.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASINetworkQueue.o36"CAACA535-FA64-4656-87FE-7C13C91DB673-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3Bucket.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Bucket.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3BucketObject.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketObject.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3BucketRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3BucketRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3ObjectRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ObjectRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3Request.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3Request.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIS3ServiceRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/S3/ASIS3ServiceRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.538030
+e362732267.583805
+r0
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m:13:9: fatal error: 'libxml/HTMLparser.h' file not found [2]
+o #import <libxml/HTMLparser.h>
+o         ^
+o1 error generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.ma4e489ebda9eb541^0c7495ebda9eb541^-218"/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m:13:9: fatal error: 'libxml/HTMLparser.h' file not found [2] #import <libxml/HTMLparser.h>         ^1 error generated.1(21%IDEActivityLogMessage2@36"'libxml/HTMLparser.h' file not found-362732267#0#157#-2#-23%DVTTextDocumentLocation3@112"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m0000000000000000^12#8#12#8#18446744073709551615#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@112"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m0000000000000000^3100"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/ASIWebPageRequest/ASIWebPageRequest.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/ASIWebPageRequest.o36"2F690086-7DE8-470C-8050-1CB8E4D5F5A8-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/Reachability.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/asi/External/Reachability/Reachability.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732267.203842
+e362732267.783945
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.mb55234ebda9eb541^55a4caebda9eb541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m0000000000000000^3043"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o opensource/regex/RegexKitLite.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/opensource/regex/RegexKitLite.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/RegexKitLite.o36"E4802D1A-F3D0-47C1-B98F-2D40CD2F6E31-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.925542
+e362732267.208699
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m130aedeada9eb541^7d7535ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m0000000000000000^3042"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o GoogleImageSearchKit/SHAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHAppDelegate.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHAppDelegate.o36"32D669DC-FDD8-4F36-A79B-0167A6B49850-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o /Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.925011
+e362732267.203830
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m:48:15: warning: unused variable 'formatSearchURI' [-Wunused-variable,12]
+o     NSString* formatSearchURI = [NSString stringWithFormat:@"http://images.google.com/images?q=%@&ndsp=%d&start=%d&filter=%d&safe=%@",queryStrAfterRegex,_resultPerQuery,_startPosition,_filter,@"moderate"];
+o               ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m65e4eceada9eb541^4c3434ebda9eb541^-381"/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m:48:15: warning: unused variable 'formatSearchURI' [-Wunused-variable,12]     NSString* formatSearchURI = [NSString stringWithFormat:@"http://images.google.com/images?q=%@&ndsp=%d&start=%d&filter=%d&safe=%@",queryStrAfterRegex,_resultPerQuery,_startPosition,_filter,@"moderate"];               ^1 warning generated.1(21%IDEActivityLogMessage2@33"Unused variable 'formatSearchURI'-362732267#0#136#-1#-23%DVTTextDocumentLocation3@78"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m0000000000000000^47#14#47#14#18446744073709551615#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@78"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m0000000000000000^3015"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o SHGoogleImageKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/SHGoogleImageKit.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHGoogleImageKit.o36"952A4D75-5448-4758-8509-FD15DD0965F1-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.934205
+e362732267.209119
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.meb52efeada9eb541^058935ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m0000000000000000^3057"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o GoogleImageSearchKit/SHViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/SHViewController.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/SHViewController.o36"FD061F59-86DA-4ECE-9B6E-DBE37A706431-
+
+CCompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.925538
+e362732267.202621
+r1
+xCompileC
+xbuild/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o
+x/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m1809edeada9eb541^05e033ebda9eb541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m0000000000000000^2997"CompileC build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o GoogleImageSearchKit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -include /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch -MMD -MT dependencies -MF /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.d -c /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/main.m -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/Objects-normal/armv7/main.o36"F684B506-8FC0-49DA-BDB6-B465B3D4630B-
+
+CCompileXIB /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/en.lproj/SHViewController.xib
+r0
+
+CCopyStringsFile /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/en.lproj/InfoPlist.strings GoogleImageSearchKit/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist
+s362732266.328547
+e362732266.351376
+r1
+xCpResource
+x/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plistd23454eada9eb541^d3f459eada9eb541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist00f81822dcffdf42^622"CpResource /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app36"5EE6432B-6944-405E-A9B0-54A797241B48-
+
+CGenerateDSYMFile /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app.dSYM /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/GoogleImageSearchKit
+r0
+
+CLd /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/GoogleImageSearchKit normal armv7
+r0
+
+CProcessInfoPlistFile /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist GoogleImageSearchKit/GoogleImageSearchKit-Info.plist
+s362732266.328517
+e362732266.351417
+r1
+xProcessInfoPlistFile
+x/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist
+xGoogleImageSearchKit/GoogleImageSearchKit-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process GoogleImageSearchKit/GoogleImageSearchKit-Info.plist7b3154eada9eb541^21025aeada9eb541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Info.plist0000000000000000^780"ProcessInfoPlistFile build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist GoogleImageSearchKit/GoogleImageSearchKit-Info.plist    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GoogleImageSearchKit/GoogleImageSearchKit-Info.plist -genpkginfo /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/ResourceRules.plist -o /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/Info.plist36"C693BB59-C7FC-4DFB-8138-C72C02C8D7DB-
+
+CProcessPCH /Users/trailcn/Library/Developer/Xcode/DerivedData/GoogleImageSearchKit-doucogilskyoeaemgklmmiglczgf/Index/PrecompiledHeaders/GoogleImageSearchKit-Prefix-asyshopzkuyzllhczcyzlvuwcgun_ast/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/trailcn/Library/Developer/Xcode/DerivedData/GoogleImageSearchKit-doucogilskyoeaemgklmmiglczgf/Index/PrecompiledHeaders/GoogleImageSearchKit-Prefix-cxnrtpijcytedfcfvehegeqzytzt_ast/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.354814
+e362732266.923609
+r1
+xProcessPCH
+x/var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth
+xGoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch7a005beada9eb541^f372eceada9eb541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch0000000000000000^3034"ProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -c /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch -o /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-anxhxdlmrtmwelbgolzluoximxcy/GoogleImageSearchKit-Prefix.pch.d36"9BE3D019-8E37-40F1-B494-0E391E9DDF6A-
+
+CProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s362732266.355434
+e362732266.931484
+r1
+xProcessPCH
+x/var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth
+xGoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch8e225beada9eb541^5585eeeada9eb541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch0000000000000000^3048"ProcessPCH /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/trailcn/prj/app/GoogleImageSearchKit    setenv LANG en_US.US-ASCII    setenv PATH "/XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin:/XCode4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /XCode4/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-generated-files.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-own-target-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-all-target-headers.hmap -iquote /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit-project-headers.hmap -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/include -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources/armv7 -I/Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/DerivedSources -F/Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2 -F/XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/usr/include/libxml2/libxml -fno-objc-arc -c /Users/trailcn/prj/app/GoogleImageSearchKit/GoogleImageSearchKit/GoogleImageSearchKit-Prefix.pch -o /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/f9/f9RIuAIrFtG3I+vta2YAy++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleImageSearchKit-Prefix-emqwaaepzrojwycdfimlvawaloii/GoogleImageSearchKit-Prefix.pch.d36"ABA3BD9C-1E1D-4924-9F0E-CD4FFF51F8C6-
+
+CProcessProductPackaging "/Users/trailcn/Library/MobileDevice/Provisioning Profiles/69F5D616-934F-421B-9FE0-9D6E4EFAB9A7.mobileprovision" /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /XCode4/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/trailcn/prj/app/GoogleImageSearchKit/build/GoogleImageSearchKit.build/Debug-iphoneos/GoogleImageSearchKit.build/GoogleImageSearchKit.xcent
+r0
+
+CTouch /Users/trailcn/prj/app/GoogleImageSearchKit/build/Debug-iphoneos/GoogleImageSearchKit.app
+r0
+
